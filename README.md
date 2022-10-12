@@ -2,6 +2,7 @@
 
 This is my first project as a full-stack Python developer.
 This project was made to really understand the logic thinking behind the code, and practicing it.
+
 Back-end technology :
 - Django (v3.2.4)
 
